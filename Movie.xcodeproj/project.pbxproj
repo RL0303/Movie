@@ -14,6 +14,7 @@
 		6E99ED21290AA9D0002A820F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6E99ED1F290AA9D0002A820F /* LaunchScreen.storyboard */; };
 		6E99ED29290AAA50002A820F /* MovieViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E99ED28290AAA50002A820F /* MovieViewController.swift */; };
 		6E99ED2B290AB266002A820F /* MovieData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E99ED2A290AB266002A820F /* MovieData.swift */; };
+		6ED3662F290BAEF000A59D33 /* MovieInfoTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6ED3662E290BAEF000A59D33 /* MovieInfoTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		6E99ED22290AA9D0002A820F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		6E99ED28290AAA50002A820F /* MovieViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieViewController.swift; sourceTree = "<group>"; };
 		6E99ED2A290AB266002A820F /* MovieData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieData.swift; sourceTree = "<group>"; };
+		6ED3662E290BAEF000A59D33 /* MovieInfoTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieInfoTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				6E99ED16290AA9CF002A820F /* SceneDelegate.swift */,
 				6E99ED28290AAA50002A820F /* MovieViewController.swift */,
 				6E99ED2A290AB266002A820F /* MovieData.swift */,
+				6ED3662E290BAEF000A59D33 /* MovieInfoTableViewCell.swift */,
 				6E99ED1A290AA9CF002A820F /* Main.storyboard */,
 				6E99ED1D290AA9D0002A820F /* Assets.xcassets */,
 				6E99ED1F290AA9D0002A820F /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6ED3662F290BAEF000A59D33 /* MovieInfoTableViewCell.swift in Sources */,
 				6E99ED2B290AB266002A820F /* MovieData.swift in Sources */,
 				6E99ED15290AA9CF002A820F /* AppDelegate.swift in Sources */,
 				6E99ED17290AA9CF002A820F /* SceneDelegate.swift in Sources */,

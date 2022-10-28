@@ -24,11 +24,11 @@ class MovieData{
     
     let allMovie = AllMovie(MovieTypeArray: [
         MovieType(MovieInfoArray:[
-            MovieInfo(movieName: "猛毒2：血蜘蛛", movieInfoAddress: "https://movies.yahoo.com.tw/movieinfo_main.html/id=11392"),
-            MovieInfo(movieName: "脫稿玩家", movieInfoAddress: "https://movies.yahoo.com.tw/movieinfo_main.html/id=11445"),
-            MovieInfo(movieName: "玩命關頭9", movieInfoAddress: "https://movies.yahoo.com.tw/movieinfo_main.html/id=10482"),
-            MovieInfo(movieName: "永恆族", movieInfoAddress: "https://movies.yahoo.com.tw/movieinfo_main.html/id=11472"),
-            MovieInfo(movieName: "蜘蛛人：無家日", movieInfoAddress: "https://movies.yahoo.com.tw/movieinfo_main.html/id=11479")
+            MovieInfo(movieName: "機密同盟2", movieInfoAddress: "https://movies.yahoo.com.tw/movieinfo_main/%E6%A9%9F%E5%AF%86%E5%90%8C%E7%9B%9F2-confidential-assignment-2-13890"),
+            MovieInfo(movieName: "玩命光頭", movieInfoAddress: "https://movies.yahoo.com.tw/movieinfo_main/%E7%8E%A9%E5%91%BD%E5%85%89%E9%A0%AD-very-bald-trip-13615"),
+            MovieInfo(movieName: "金牌拳手3", movieInfoAddress: "https://movies.yahoo.com.tw/movieinfo_main/%E9%87%91%E7%89%8C%E6%8B%B3%E6%89%8B3-creed-iii-14208"),
+            MovieInfo(movieName: "阿凡達：水之道", movieInfoAddress: "https://movies.yahoo.com.tw/movieinfo_main/%E9%98%BF%E5%87%A1%E9%81%94-%E6%B0%B4%E4%B9%8B%E9%81%93-avatar-the-way-of-water-13257"),
+            MovieInfo(movieName: "獵空計畫", movieInfoAddress: "https://movies.yahoo.com.tw/movieinfo_main/%E7%8D%B5%E7%A9%BA%E8%A8%88%E7%95%AB-mission-sky-14258")
         ]),
         MovieType(MovieInfoArray: [
             MovieInfo(movieName: "當男人戀愛時", movieInfoAddress: "https://movies.yahoo.com.tw/movieinfo_main.html/id=11255"),
